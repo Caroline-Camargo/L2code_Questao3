@@ -1,0 +1,23 @@
+Constant 3
+Plusone
+Dup
+Inc
+ 
+Constant -5
+Minusone
+Dup
+Dup
+Inc
+Dup
+Inc
+ 
+Constant 1
+Plusone
+ 
+Constant 7
+Plusone
+Dup
+Inc
+Dup
+Inc
+ 
